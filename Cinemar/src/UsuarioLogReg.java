@@ -27,7 +27,7 @@ public class UsuarioLogReg extends Usuario(1){
 					 System.out.print ("Introduzca la contraseña:");
 					String contraseña = sc.nextLine();
 	 
-					if (us.isLogin(correo, contraseña)) {
+					if (us(correo, contraseña)) {
 						 System.out.println ("¡Inicio de sesión exitoso!");
 						 sc.close();
 						System.exit(0);
@@ -61,7 +61,7 @@ public class UsuarioLogReg extends Usuario(1){
 			}
 		}
 
-		private boolean isLogin(String correo, String contraseña) {
+		private boolean us(String correo, String contraseña) {
 			// TODO Auto-generated method stub
 			return true;
 		}

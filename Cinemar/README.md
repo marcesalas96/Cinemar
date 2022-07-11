@@ -1,5 +1,7 @@
 # Sistema de Gestion Cinemar
 
+##PARA VER INTERFAZ GRAFICA CINEMAR/SRC/REGISTRO-LOGIN-INTERFAZ entrar desde APACHENETBEANS
+
 ## Contexto
 Cinemar es una empresa que se dedica a proyectar películas esencialmente
 dedicadas al público adolescente.

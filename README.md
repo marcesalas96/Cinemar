@@ -56,7 +56,7 @@ función.
 * ** Martin Fradejas** - [TinchoARS](https://github.com/TinchoARS)
 * ** Jorge Reales** - 
 * ** Daniel Calle** - [Dany](https://github.com/FDany)
-* **Jesica Martínez** - [Jesica56](https://github.com/Jesica56)
+* ** Jesica Martínez** - [Jesica56](https://github.com/Jesica56)
 
 ## Licencia 📄
 
